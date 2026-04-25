@@ -57,3 +57,4 @@
 - Wiki проекта (документация): https://github.com/fpmi-tpmp2026/tpmp-gr12b-lab4-best_team/wiki
 - Репозиторий с кодом: https://github.com/Cloudy680/tpmp-lab4-rep2
 - GitHub Pages: https://cloudy680.github.io/tpmp-lab4-rep2/
+- Отчет: https://docs.google.com/document/d/1QR6z-7NldxU-agGrCXdBcYUmEzBu9sPk/edit?usp=sharing&ouid=115522212482991015873&rtpof=true&sd=true
